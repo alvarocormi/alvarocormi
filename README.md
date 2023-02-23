@@ -16,15 +16,7 @@ I have many projects in mind and I am already working on several of them.
 
 ## Technologies:
 
-- - -
-
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="LogoHTML" width="40px">  
-<img src=" https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="LogoCSS" width="40px">
-<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="LogoJava" width="40px">
-<img src=" https://cdn-icons-png.flaticon.com/512/5815/5815478.png" alt="LogoSQL" width="36px">
-<img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" alt="LogoGit" width="36px">
-<img src=" https://cdn-icons-png.flaticon.com/512/6124/6124995.png" alt="LogoLinux" width="36px">
-<img src=" https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="LogoBash" width="36px">
+![Tecnologies](img/tecnologies.JPG)
 
 <br>
 
@@ -33,7 +25,7 @@ I have many projects in mind and I am already working on several of them.
 <br>
 
 ## Find me on:
-- - -
+
 + [**TWITTER**](https://twitter.com/KokeRL_)
 + [**LINKEDIN**](https://www.linkedin.com/in/%C3%A1lvaro-cordero-mi%C3%B1ambres-2a1893233/)
 + [**LINK SITE**](https://alvarocormi.000webhostapp.com/)
@@ -44,7 +36,7 @@ I have many projects in mind and I am already working on several of them.
 <br>
 
 ## Contact
-- - -
+
 
 [<img src="./img/gmail2.png" alt="LogoHTML" width="175px">](https://cdn-icons-png.flaticon.com/512/9801/9801474.png) 
 
