@@ -2,7 +2,7 @@
 
 ### Web application development student 
 
-<img src="https://c1.wallpaperflare.com/preview/635/651/752/banners-page-www.jpg" alt="LogoBash" width="800px">
+<img src="./img/background.jpg" alt="LogoGamergy" width="800px">
 
 
 I'm a first year Web Application Development student.
@@ -11,18 +11,23 @@ I'm 18 years old, now I am training in the institute IES Los Sauces (Benavente, 
 
 I have many projects in mind and I am already working on several of them.
 
-<br>
+
 
 
 ## Technologies:
 
-![Tecnologies](img/tecnologies.JPG)
+![Tecnologies](img/html-5.png)
+![Tecnologies](img/css-3.png)
+![Tecnologies](img/linux.png)
+![Tecnologies](img/java.png)
+![Tecnologies](img/wordpress.png)
+![Tecnologies](img/Mysql.png)
 
-<br>
+
 
 > I am currently specializing in all these technologies as well as learning many new ones.
 
-<br>
+
 
 ## Find me on:
 
@@ -38,5 +43,5 @@ I have many projects in mind and I am already working on several of them.
 ## Contact
 
 
-[<img src="./img/gmail2.png" alt="LogoHTML" width="175px">](https://cdn-icons-png.flaticon.com/512/9801/9801474.png) 
+<img src="./img/gmail2.png" alt="LogoHTML" width="175px">
 
