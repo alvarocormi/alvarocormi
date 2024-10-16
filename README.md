@@ -1,13 +1,14 @@
 # <img src="https://cdn-icons-png.flaticon.com/512/3539/3539924.png" alt="Logo" width="55px"> **Hi, my name is Alvaro Cordero** 👋
 
-### Web application development student 
+### Web application development
 
 <img src="./img/background.jpg" alt="LogoGamergy" width="800px">
 
 
-I'm a first year Web Application Development student.
+I'm a Web Application Development.
 
-I'm 18 years old, now I am training in the institute IES Los Sauces (Benavente, Zamora). Right now I am dedicated to listening and learning any type of methodology, language or field that I am taught.
+I'm 19 years old, FrontEnd and BackEnd application development.
+Contributed to Open Source NLP Projects, Demonstrating Commitment to Knowledge Sharing
 
 I have many projects in mind and I am already working on several of them.
 
@@ -33,7 +34,7 @@ I have many projects in mind and I am already working on several of them.
 
 + [**TWITTER**](https://twitter.com/KokeRL_)
 + [**LINKEDIN**](https://www.linkedin.com/in/%C3%A1lvaro-cordero-mi%C3%B1ambres-2a1893233/)
-+ [**LINK SITE**](https://alvarocormi.000webhostapp.com/)
++ [**LINK SITE**](https://alvarocormi.com/)
 
 > You can find me better in these apps
   
